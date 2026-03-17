@@ -34,8 +34,8 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 ```
 /*
 Program to implement SVM for food classification for diabetic patients.
-Developed by: AALIYA FATHIMA M
-RegisterNumber: 212223230001
+Developed by: THARUN D
+RegisterNumber: 212225240171
 */
 
 # Import necessary libraries
